@@ -1,0 +1,11 @@
+C:\Users\I Novbe\source\repos\BlogApp\BlogAppCore\bin\Debug\net8.0\BlogAppCore.deps.json
+C:\Users\I Novbe\source\repos\BlogApp\BlogAppCore\bin\Debug\net8.0\BlogAppCore.dll
+C:\Users\I Novbe\source\repos\BlogApp\BlogAppCore\bin\Debug\net8.0\BlogAppCore.pdb
+C:\Users\I Novbe\source\repos\BlogApp\BlogAppCore\obj\Debug\net8.0\BlogAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\BlogApp\BlogAppCore\obj\Debug\net8.0\BlogAppCore.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\BlogApp\BlogAppCore\obj\Debug\net8.0\BlogAppCore.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\BlogApp\BlogAppCore\obj\Debug\net8.0\BlogAppCore.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\BlogApp\BlogAppCore\obj\Debug\net8.0\BlogAppCore.dll
+C:\Users\I Novbe\source\repos\BlogApp\BlogAppCore\obj\Debug\net8.0\refint\BlogAppCore.dll
+C:\Users\I Novbe\source\repos\BlogApp\BlogAppCore\obj\Debug\net8.0\BlogAppCore.pdb
+C:\Users\I Novbe\source\repos\BlogApp\BlogAppCore\obj\Debug\net8.0\ref\BlogAppCore.dll
